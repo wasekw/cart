@@ -63,6 +63,6 @@ window.addEventListener('DOMContentLoaded', function() {
             field.appendChild(item);
             products[ind].remove();
         });
-    })
+    });
 });
 
