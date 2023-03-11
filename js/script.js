@@ -58,7 +58,7 @@ window.addEventListener('DOMContentLoaded', function() {
         el.addEventListener('click', () => {
             let item  = products[ind].cloneNode(true);
             let btn =item.querySelector('button');
-
+    
             btn.remove();
             field.appendChild(item);
             products[ind].remove();

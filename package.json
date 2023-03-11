@@ -1,7 +1,7 @@
 {
   "name": "cart",
   "version": "1.0.0",
-  "description": "This is a lesson of Ivan Petrichenco",
+  "description": "This is settings of eslint",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,7 @@
     "url": "git+https://github.com/wasekw/cart.git"
   },
   "keywords": [
-    "addEventListener",
-    "remove",
-    "appendChild",
-    "classList"
+    "eslint"
   ],
   "author": "Vasiliy Volobaev",
   "license": "ISC",
